@@ -1,0 +1,13 @@
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\bin\Debug\netcoreapp3.1\Concurrency.exe
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\bin\Debug\netcoreapp3.1\Concurrency.deps.json
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\bin\Debug\netcoreapp3.1\Concurrency.runtimeconfig.json
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\bin\Debug\netcoreapp3.1\Concurrency.runtimeconfig.dev.json
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\bin\Debug\netcoreapp3.1\Concurrency.dll
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\bin\Debug\netcoreapp3.1\Concurrency.pdb
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.csprojAssemblyReference.cache
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.AssemblyInfoInputs.cache
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.AssemblyInfo.cs
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.dll
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.pdb
+C:\Users\Somad\source\repos\ConcurrentCollection\Concurrency\obj\Debug\netcoreapp3.1\Concurrency.genruntimeconfig.cache
